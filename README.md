@@ -1,5 +1,5 @@
 # Analisis-Penjualan-Store-A-Januari-Desember-2022
-![Screen Shot 2024-12-04 at 01.32.38.png](https://github.com/saquinanoor/Analisis-Penjualan-Store-A-Januari-Desember-2022/blob/main/Screen%20Shot%202024-12-04%20at%2001.32.38.png)
+![SS Analisis Penjualan Store 2022.png](https://github.com/saquinanoor/Analisis-Penjualan-Store-A-Januari-Desember-2022/blob/main/SS%20Analisis%20Penjualan%20Store%202022.png)
 
 
 ## overview
